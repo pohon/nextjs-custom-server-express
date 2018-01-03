@@ -1,0 +1,13 @@
+{
+  "title": "Ruhmsieg ID",
+  "nav.home": "Beranda",
+  "nav.users": "Pengguna",
+  "nav.chat": "Chat",
+  "nav.about": "Tentang",
+  "nav.language": "Bahasa",
+  "nav.helloguest": "Halo, tamu",
+  "nav.hellologin": "Halo, ",
+  "nav.login": "Masuk",
+  "nav.register": "Daftar",
+  "nav.logout": "Keluar"
+}

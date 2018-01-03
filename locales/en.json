@@ -1,0 +1,13 @@
+{
+  "title": "Ruhmsieg EN",
+  "nav.home": "Home",
+  "nav.users": "Users",
+  "nav.chat": "Chat",
+  "nav.about": "About",
+  "nav.language": "Language",
+  "nav.helloguest": "Hello, guest",
+  "nav.hellologin": "Hello, ",
+  "nav.login": "Login",
+  "nav.register": "Register",
+  "nav.logout": "Logout"
+}
